@@ -1,4 +1,7 @@
 This file includes:
 
-celldataclean.csv
-user_actions.db
+- celldataclean.csv
+
+- user_actions.db
+
+- comments.txt
