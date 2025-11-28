@@ -1,2 +1,3 @@
-# cell_data
-Cleaned cell data used in HW4
+# Cell data cleaned
+
+- Cleaned cell data used in HW4
