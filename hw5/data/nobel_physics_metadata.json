@@ -1,0 +1,12 @@
+{
+  "endpoint": "https://api.nobelprize.org/2.1/nobelPrizes",
+  "params_used": {
+    "nobelPrizeCategory": "physics",
+    "initial_limit": 25
+  },
+  "pages_fetched": 28,
+  "total_prizes_collected": 682,
+  "combined_file": "data/nobel_physics_combined_list.json",
+  "raw_pages_file": "data/nobel_physics_raw_pages.json",
+  "notes": "Simple offset/limit pagination; small retry/backoff implemented."
+}
